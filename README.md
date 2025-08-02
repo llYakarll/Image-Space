@@ -1,4 +1,4 @@
-#imagespace_small Image Space
+# <img src="Resources/imagespace_small.png" width="20" style="vertical-align: middle;"/> Image Space
 
 🎨 Basit ama şık bir Windows Forms uygulamasıyla görsellere filtreler ekleyin ve kaydedin.  
 
