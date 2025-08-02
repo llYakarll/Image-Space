@@ -1,4 +1,5 @@
 using System.Drawing.Drawing2D;
+using static System.Windows.Forms.DataFormats;
 
 namespace Image_Space
 {
@@ -39,7 +40,9 @@ namespace Image_Space
             if (DialogResult.OK == saveFileDialog.ShowDialog())
             {
                 string path = saveFileDialog.FileName;
-                bitmap = new Bitmap(path);
+                MessageBox.Show(path);
+                mainPicture.Image.Save(path);
+
 
                 MessageBox.Show("Resim Kaydedildi", "Bilgilendirme", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
