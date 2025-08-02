@@ -1,0 +1,17 @@
+C:\Users\abdul\source\repos\Image_Space\Image_Space\bin\Debug\net8.0-windows\Image_Space.exe
+C:\Users\abdul\source\repos\Image_Space\Image_Space\bin\Debug\net8.0-windows\Image_Space.deps.json
+C:\Users\abdul\source\repos\Image_Space\Image_Space\bin\Debug\net8.0-windows\Image_Space.runtimeconfig.json
+C:\Users\abdul\source\repos\Image_Space\Image_Space\bin\Debug\net8.0-windows\Image_Space.dll
+C:\Users\abdul\source\repos\Image_Space\Image_Space\bin\Debug\net8.0-windows\Image_Space.pdb
+C:\Users\abdul\source\repos\Image_Space\Image_Space\obj\Debug\net8.0-windows\Image_Space.Form1.resources
+C:\Users\abdul\source\repos\Image_Space\Image_Space\obj\Debug\net8.0-windows\Image_Space.Image_Space_Resource.resources
+C:\Users\abdul\source\repos\Image_Space\Image_Space\obj\Debug\net8.0-windows\Image_Space.csproj.GenerateResource.cache
+C:\Users\abdul\source\repos\Image_Space\Image_Space\obj\Debug\net8.0-windows\Image_Space.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\source\repos\Image_Space\Image_Space\obj\Debug\net8.0-windows\Image_Space.AssemblyInfoInputs.cache
+C:\Users\abdul\source\repos\Image_Space\Image_Space\obj\Debug\net8.0-windows\Image_Space.AssemblyInfo.cs
+C:\Users\abdul\source\repos\Image_Space\Image_Space\obj\Debug\net8.0-windows\Image_Space.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\Image_Space\Image_Space\obj\Debug\net8.0-windows\Image_Space.dll
+C:\Users\abdul\source\repos\Image_Space\Image_Space\obj\Debug\net8.0-windows\refint\Image_Space.dll
+C:\Users\abdul\source\repos\Image_Space\Image_Space\obj\Debug\net8.0-windows\Image_Space.pdb
+C:\Users\abdul\source\repos\Image_Space\Image_Space\obj\Debug\net8.0-windows\Image_Space.genruntimeconfig.cache
+C:\Users\abdul\source\repos\Image_Space\Image_Space\obj\Debug\net8.0-windows\ref\Image_Space.dll
